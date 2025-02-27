@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello,  Git Learners to complete !
+=======
+Hello,  Git Learners to the new branch!
+>>>>>>> conflict-branch
